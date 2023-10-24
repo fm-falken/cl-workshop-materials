@@ -1,0 +1,20 @@
+{
+  "name": "6-connection_refused",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ilia Druta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3",
+    "mysql2": "^3.6.2"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.2"
+  }
+}

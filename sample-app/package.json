@@ -1,0 +1,18 @@
+{
+  "name": "express-passenger-app",
+  "version": "1.0.0",
+  "description": "A small Express app for deployment in a shared hosting environment using Phusion Passenger.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "author": "Ilia Druta",
+  "license": "ISC"
+}
